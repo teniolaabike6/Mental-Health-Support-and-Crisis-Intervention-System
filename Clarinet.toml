@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/mental-health-screening.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.therapy-session-scheduling]
+path = 'contracts/therapy-session-scheduling.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

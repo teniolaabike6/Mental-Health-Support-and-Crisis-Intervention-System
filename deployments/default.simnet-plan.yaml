@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/mental-health-screening.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: therapy-session-scheduling
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/therapy-session-scheduling.clar
+            clarity-version: 2
       epoch: "2.5"
